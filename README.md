@@ -1,9 +1,10 @@
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 ---
 
-<div align="center">
+
   
 ## 🧑‍💻 Sobre mim
 
