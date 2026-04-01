@@ -11,10 +11,10 @@
 
 ```javascript
 const eu = {
-  nome:       "Eduardo",
-  localizacao: "Brasil 🇧🇷",
-  foco:        ["Web", "APIs", "Automações", "Hacking"],
-  contato:     "eduardo9631s@gmail.com"
+  nome:  "Eduardo",
+  localizacao:  "Brasil 🇧🇷",
+  foco:  ["Web", "APIs", "Automações", "Hacking"],
+  contato:  "eduardo9631s@gmail.com"
 };
 ```
 
