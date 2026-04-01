@@ -14,7 +14,7 @@
 const eu = {
   nome:  "Eduardo",
   localizacao:  "Brasil 🇧🇷",
-  foco:  ["Web", "APIs", "Automações", "Hacking"],
+  foco:  ["Web", "APIs", "Automações", "Ethical Hacking"],
   contato:  "eduardo9631s@gmail.com"
 };
 ```
